@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: red;
+}
+/*changing the color when passes with the mouse*/
+img:hover{
+    background-color: red;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
